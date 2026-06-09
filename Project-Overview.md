@@ -1,138 +1,211 @@
-# Clinical Data Invisibility in Kinshasa:
+# Clinical Data Invisibility in LMICs
 
-# A Lightweight Pilot to Identify Missing Populations in Global Health Datasets
+## A Pilot for AI-Ready and Biosurveillance-Ready Health Data Infrastructure
 
 # Project Overview
 
-Executive Summary
+## Executive Summary
 
-Global health datasets increasingly influence research priorities, public health decision-making, and the development of AI systems. Yet many patients in high-burden, low-resource settings remain effectively invisible within these datasets.
-This pilot will investigate how and why routine clinical information fails to become part of structured health data systems in Kinshasa, Democratic Republic of the Congo. Over a period of 8–12 weeks, the project will map clinical data flows, identify points of data loss, test a lightweight data capture workflow, and generate practical recommendations for improving data visibility in resource-constrained healthcare environments.
+Modern AI systems, biosurveillance platforms, epidemiological forecasting tools, and public health intelligence systems increasingly depend on large-scale health datasets. However, many populations living in high-burden, low-resource settings remain structurally absent from the data ecosystems that support these technologies. This absence is often not the result of limited clinical activity, but rather the consequence of fragmented documentation practices, limited interoperability, and the lack of lightweight infrastructure capable of transforming routine clinical information into structured, reusable data.
+
+This pilot investigates one upstream cause of that problem: the failure of routine clinical information to become part of broader health data systems. Working with selected healthcare facilities in Kinshasa, Democratic Republic of the Congo, the project will map clinical data flows, identify points of data loss, test a lightweight structured data capture workflow, and evaluate its feasibility in real-world clinical settings.
+
 The goal is not to build a digital health platform or electronic medical record system. Instead, the project seeks to answer a foundational question:
-What minimal infrastructure is needed for routine clinical care in low-resource settings to become visible in global health datasets?
+
+**What minimal infrastructure is required for routine clinical care in low-resource settings to become visible within the datasets that increasingly support AI systems, biosurveillance, and global health decision-making?**
+
+Over a period of 8–12 weeks, the project will generate empirical evidence on how clinical information moves through healthcare systems, where it becomes invisible, and what practical interventions may improve future participation in global health data ecosystems.
+
 
 # Background
 
-Many healthcare facilities in low-resource settings generate substantial clinical information every day. However, much of this information remains:
+AI systems are becoming increasingly influential in healthcare, public health planning, epidemiological forecasting, and disease surveillance. At the same time, biosurveillance systems rely on timely and structured health information to detect emerging threats, monitor disease trends, and support rapid public health responses.
+
+Yet many healthcare facilities in low-resource settings generate substantial clinical information every day that never becomes part of structured datasets.
+
+Routine clinical information is often:
+
 * Paper-based
 * Non-standardized
 * Fragmented across multiple records
 * Difficult to digitize
+* Difficult to aggregate
 * Unavailable for research and analysis
-  
-As a result, populations experiencing some of the highest disease burdens are often underrepresented in datasets used to:
-* Train healthcare AI systems
-* Inform epidemiological research
+
+As a result, populations experiencing some of the world's highest disease burdens remain underrepresented in datasets used to:
+
+* Train and evaluate healthcare AI systems
+* Support epidemiological forecasting
+* Inform outbreak detection and biosurveillance
 * Guide public health policy
-* Support resource allocation decisions
-  
-Despite growing attention to AI fairness and global health equity, relatively little work has focused on understanding the practical barriers that prevent routine clinical information from entering broader data ecosystems.
+* Allocate healthcare resources
+* Shape global health research priorities
+
+While growing attention has been paid to algorithmic bias and AI fairness, relatively little research has focused on the practical mechanisms that prevent entire populations from entering the data ecosystems on which these systems depend.
+
+Understanding these mechanisms is increasingly important for both AI governance and biosecurity. If populations are absent from underlying datasets, they may also be absent from the systems used to understand health risks, allocate resources, and monitor emerging threats.
+
 
 # Project Objectives
 
 The pilot has four objectives:
 
-1. Map Existing Clinical Data Flows
-Document how patient information is recorded, transferred, aggregated, and reported within selected healthcare facilities.
+## 1. Map Existing Clinical Data Flows
 
-2. Identify Data Invisibility Points
-Determine where clinical information is lost, excluded, or rendered unusable for secondary purposes such as research and analytics.
+Document how patient information is recorded, transferred, aggregated, stored, and reported within selected healthcare facilities.
 
-3. Test a Lightweight Data Capture Approach
-Implement a simple structured data collection workflow that can operate within existing clinical processes.
+## 2. Identify Data Invisibility Points
 
-4. Generate Evidence for Future Research
-Produce empirical findings on barriers to data visibility and opportunities for low-cost improvements.
+Determine where clinical information is lost, excluded, delayed, or rendered unusable for secondary purposes such as research, analytics, AI development, and public health monitoring.
+
+## 3. Test a Lightweight Data Capture Approach
+
+Implement a simple structured data collection workflow that can operate within existing clinical processes without requiring major technological investments.
+
+## 4. Generate Evidence for Future Research
+
+Produce empirical findings on barriers to data visibility and identify practical opportunities for improving participation in health data ecosystems used for AI, biosurveillance, and population health research.
+
 
 # Activities
 
-Facility Workflow Mapping
-* Observe documentation processes
+## Facility Workflow Mapping
+
+* Observe clinical documentation processes
 * Review patient record flows
 * Identify reporting pathways
+* Document points of information loss
 
-Structured Data Capture Pilot
+## Structured Data Capture Pilot
+
 * Introduce a simple paper-digital hybrid workflow
 * Capture key clinical variables in a standardized format
 * Evaluate feasibility and acceptability
-  
-Healthcare Worker Interviews
+* Assess integration within routine clinical practice
+
+## Healthcare Worker Interviews
 
 Conduct semi-structured interviews with frontline staff to understand:
+
 * Documentation practices
 * Operational constraints
 * Data management challenges
 * Perceived benefits and costs of structured data collection
-  
-Data Quality Assessment
+* Attitudes toward data sharing and reporting
+
+## Data Quality Assessment
 
 Assess:
+
 * Completeness
 * Consistency
 * Standardization
+* Timeliness
 * Ease of aggregation
+* Potential interoperability
+
 
 # Expected Outputs
 
-By the end of the project, we will produce:
+By the end of the project, the following outputs will be produced:
 
-1. Field Report
+## Field Report
+
 A 10–20 page report documenting:
+
 * Existing workflows
 * Data invisibility points
-* Operational challenges
-* Recommendations
-  
-2. Clinical Data Flow Map
-A visual representation of information movement through a real clinical setting.
+* Operational barriers
+* Feasibility findings
+* Recommendations for improvement
 
-4. Reusable Data Capture Template
-A lightweight framework that can be adapted in similar environments.
+## Clinical Data Flow Map
 
-6. Pilot Dataset
-An anonymized structured dataset demonstrating feasibility.
+A visual representation of how information moves through a real clinical environment and where losses occur.
 
-8. Recommendations
-A practical set of recommendations for improving routine health data capture in low-resource settings.
+## Reusable Data Capture Template
+
+A lightweight framework that can be adapted by healthcare facilities operating in similar resource-constrained environments.
+
+## Pilot Dataset
+
+An anonymized structured dataset demonstrating the feasibility of routine clinical data capture and standardization.
+
+## Recommendations
+
+A practical set of recommendations for strengthening routine health data visibility and improving future integration into research, biosurveillance, and AI-relevant datasets.
+
 
 # Why This Matters
 
-Discussions about equitable AI and representative global health datasets often focus on algorithmic bias after data has already been collected.
-This project focuses on an earlier and less studied problem:
-the mechanisms through which entire populations never enter those datasets in the first place.
-By identifying where data disappears during routine care, this pilot aims to contribute evidence that can inform future efforts in digital health, health systems strengthening, and AI governance.
+AI systems used for clinical decision support, epidemiological forecasting, outbreak detection, and health system planning depend on datasets that often underrepresent populations in low-resource settings.
+
+This creates a fundamental challenge for both AI governance and biosecurity. Populations experiencing substantial disease burdens may remain invisible not only to researchers, but also to the emerging systems designed to monitor health threats, support public health responses, and inform evidence-based decision-making.
+
+Most discussions about AI fairness focus on algorithmic bias after data has already been collected. This project focuses on an earlier and less studied problem: the mechanisms through which entire populations never enter those datasets in the first place.
+
+By identifying where information disappears during routine care and testing practical methods for improving data capture, this pilot aims to generate evidence that can contribute to:
+
+* More representative global health datasets
+* Improved AI readiness in underrepresented settings
+* Stronger biosurveillance capabilities
+* Better epidemiological visibility
+* More inclusive health data governance
+* Future digital health infrastructure development
+
+Ultimately, the project investigates a foundational question:
+
+**How can populations currently invisible in global health data ecosystems become visible to the systems that increasingly shape healthcare, public health, and AI-driven decision-making?**
+
 
 # Timeline
 
-Weeks 1–2
+## Weeks 1–2
+
 * Stakeholder engagement
 * Site selection
 * Workflow mapping
-  
-Weeks 3–8
+* Pilot preparation
+
+## Weeks 3–8
+
 * Data collection
+* Structured data capture implementation
 * Interviews
-* Pilot implementation
-  
-Weeks 9–12
-* Analysis
+* Data quality assessment
+
+## Weeks 9–12
+
+* Data analysis
 * Report writing
+* Synthesis of findings
 * Final recommendations
+
 
 # Budget
 
-Total Requested: $5,000–10,000
+## Total Requested: USD 5,000–10,000
+
 * Fieldwork and local travel
 * Research assistant support
 * Data collection tools
 * Transcription and documentation
+* Data storage and management
 * Data analysis
 * Reporting and dissemination
 
+
+
 # Success Criteria
 
+The pilot will be considered successful if it achieves the following:
+
 * Clinical workflows mapped in participating facilities
+* Data invisibility points identified and documented
 * Structured pilot dataset produced
-* Interviews completed
+* Healthcare worker interviews completed
+* Data quality assessment conducted
 * Final report delivered
 * Practical recommendations generated
+
+Success will be measured not only by data collection outputs, but also by the project's ability to generate actionable insights on how underrepresented populations can become more visible within the health data ecosystems that increasingly support AI systems, biosurveillance, and global health decision-making.
