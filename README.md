@@ -111,7 +111,7 @@ Field implementation is planned over 8–12 weeks.
 
 ## Core Framing
 
-This project examines the infrastructure required for routine clinical data to become usable for AI systems, biosurveillance platforms, and global health intelligence systems.
+This project focuses on the upstream data generation layer that determines whether populations in LMICs are represented in the datasets that underpin modern health intelligence systems.
 
 It is a study of the infrastructure required for clinical data to become usable for:
 
