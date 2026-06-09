@@ -2,23 +2,30 @@
 
 ## Project Title
 
-Lightweight clinical data capture pilot in Kinshasa to identify missing populations in global health datasets
+Reducing Clinical Data Invisibility for AI and Biosurveillance: A Lightweight Data Capture Pilot in Kinshasa
 
 
-# Purpose
+## Purpose
 
-This project seeks to understand how routine clinical information is recorded, transferred, and lost within healthcare workflows in low-resource settings. The focus is on health information systems and data processes rather than clinical interventions or patient treatment.
+This project seeks to understand how routine clinical information is recorded, transferred, and becomes incomplete or inaccessible within healthcare workflows in low-resource settings.
 
-The project aims to generate evidence on barriers to data visibility and opportunities for lightweight improvements in routine data capture.
+The focus is on health information systems, data infrastructure, and information flows rather than clinical interventions or patient treatment.
+
+The project aims to generate evidence on barriers to data visibility and opportunities for lightweight improvements in routine data capture that may improve the quality and representativeness of datasets used for:
+
+* public health decision-making
+* epidemiological surveillance
+* health system planning
+* AI-based health analytics and forecasting
 
 
-# Human Subjects Considerations
+## Human Subjects Considerations
 
 The project involves:
 
 * Observation of administrative and clinical data workflows
 * Interviews with healthcare workers
-* Collection of anonymized operational data
+* Collection of anonymized operational and routine clinical data
 
 The project does not involve:
 
@@ -28,7 +35,7 @@ The project does not involve:
 * Direct modification of patient care
 
 
-# Informed Participation
+## Informed Participation
 
 Healthcare workers participating in interviews will receive:
 
@@ -40,9 +47,9 @@ Healthcare workers participating in interviews will receive:
 Verbal informed consent will be obtained before interviews.
 
 
-# Patient Privacy
+## Patient Privacy
 
-The project will prioritize data minimization.
+The project will prioritize strict data minimization principles.
 
 No public outputs will contain:
 
@@ -51,78 +58,80 @@ No public outputs will contain:
 * Telephone numbers
 * National identification numbers
 * Medical record numbers
-* Other direct identifiers
+* Any other direct identifiers
 
-Where possible, data will be aggregated or de-identified before analysis.
+Where possible, data will be aggregated or fully de-identified prior to analysis and dissemination.
 
 
-# Confidentiality
+## Confidentiality
 
-Interview participants will not be identified by name in reports.
+Interview participants will not be identified by name in any outputs.
 
-Facilities may be anonymized if requested.
+Facilities may be anonymized where requested or where identification could pose institutional risk.
 
-Quotes included in reports will be de-identified.
+Quotes used in reports will be fully de-identified.
 
 Example:
 
 "Nurse, public health center, Kinshasa"
 
-rather than naming an individual.
+rather than identifiable individual attribution.
 
 
-# Data Security
+## Data Security
 
 Project data will be:
 
 * Stored on password-protected devices
+* Encrypted where possible
 * Backed up securely
-* Accessible only to project personnel
+* Access-restricted to project personnel only
 
 Any cloud storage used will employ secure access controls.
 
 
-# Risk Assessment
+## Risk Assessment
 
-## Potential Risks
+### Potential Risks
 
-### For Healthcare Workers
+**For Healthcare Workers**
 
-* Concerns about evaluation of performance
-* Fear of criticism of existing practices
+* Concerns about performance evaluation
+* Fear of criticism of existing documentation practices
 
-### For Facilities
+**For Facilities**
 
 * Concerns about reputational risk
-* Concerns regarding data management findings
+* Sensitivity around data quality findings
 
-### For Patients
+**For Patients**
 
-* Potential privacy risks if data is improperly handled
+* Minimal direct risk, as no patient-level identifiable data will be collected or published
 
 
-# Risk Mitigation
+## Risk Mitigation
 
 The project will emphasize:
 
 * System-level analysis rather than individual evaluation
-* Confidential handling of information
-* De-identification of all outputs
-* Data minimization principles
+* Non-punitive framing of findings
+* Strict de-identification of all outputs
+* Data minimization principles throughout data collection and reporting
+* Clear separation between research objectives and clinical care
 
-The goal is to understand structural challenges rather than assign responsibility.
+The goal is to understand structural constraints in health data systems rather than assign responsibility to individuals or facilities.
 
 
-# Benefits
+## Benefits
 
 Potential benefits include:
 
-* Better understanding of data gaps
-* Practical recommendations for improving data visibility
-* Improved evidence for future health information system investments
-* Increased representation of underrepresented populations in health datasets
+* Improved understanding of structural barriers to data visibility
+* Evidence to inform future investments in health information systems
+* Improved representativeness of underrepresented populations in datasets
+* Contributions to more reliable data foundations for public health intelligence, biosurveillance, and AI-enabled health systems
+  
 
+## Ethical Principle
 
-# Ethical Principle
-
-The project is guided by the principle that improving representation in health data systems should occur without compromising privacy, autonomy, or trust.
+This project is guided by the principle that strengthening health data systems for public health intelligence, biosurveillance, and AI applications must be done in a way that preserves privacy, respects autonomy, and maintains trust in healthcare institutions.
