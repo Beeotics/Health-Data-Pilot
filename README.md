@@ -99,6 +99,7 @@ Improving this layer is a prerequisite for:
 * `Data-Flow-Template.md` → Clinical workflow mapping tool
 * `Interview-Guide.md` → Healthcare worker interviews
 * `Ethics-Considerations.md` → Ethics and governance
+* `Field-Engagement.md` → Documentation of stakeholder engagement and field observations
 * `Prototype/` → Synthetic dataset and analysis tools
 * `Outputs/` → Templates for reporting and synthesis
 
