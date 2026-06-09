@@ -1,6 +1,6 @@
 # Field Report Outline
 
-## Lightweight clinical data capture pilot in Kinshasa to identify missing populations in global health datasets
+## Reducing Clinical Data Invisibility for AI and Biosurveillance: A Lightweight Data Capture Pilot in Kinshasa
 
 Author
 
