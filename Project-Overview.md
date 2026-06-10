@@ -186,13 +186,12 @@ Ultimately, the project investigates a foundational question:
 
 ## Total Requested: USD 5,000–10,000
 
-* Fieldwork and local travel
-* Research assistant support
-* Data collection tools
-* Transcription and documentation
-* Data storage and management
-* Data analysis
-* Reporting and dissemination
+* Field research and clinical workflow mapping 
+* Development and deployment of structured data capture tools 
+* Healthcare worker training and implementation support 
+* Data validation and analysis 
+* Stakeholder engagement and partnership development 
+* Reporting, dissemination, and contingency costs 
 
 
 
