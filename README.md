@@ -116,3 +116,7 @@ Field implementation is planned over 8–12 weeks.
 This project investigates a neglected bottleneck in global health intelligence: the infrastructure required for routine clinical activity to become machine-readable data. By studying where clinical information is lost before it enters surveillance, forecasting, and AI pipelines, the project aims to identify scalable interventions that improve the visibility of underrepresented populations in data-driven systems.
 
 The central hypothesis is that many populations remain effectively invisible to data-driven systems not because healthcare activity is absent, but because the infrastructure required to transform routine clinical information into structured, reusable data is missing or incomplete. Improving this layer is a prerequisite for more representative AI systems, stronger biosurveillance platforms, and more effective global health intelligence systems.
+
+## Intellectual Property and Funding Notice
+
+All materials in this repository were independently developed and fully self-funded by the author. This repository constitutes pre-existing background intellectual property owned exclusively by the author. No part of this repository is derived from or dependent on external funding. Any future grant or funding arrangement shall apply strictly to newly created outputs under that agreement and shall not affect ownership of pre-existing materials, which remain the sole property of the author.
